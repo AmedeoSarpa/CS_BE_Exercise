@@ -1,0 +1,10 @@
+{
+  "name": "cs_exercise",
+  "version": "1.0.0",
+  
+  "author": "Amedeo Sarpa",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csv": "^6.1.0"
+  }
+}
